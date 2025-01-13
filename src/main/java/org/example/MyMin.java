@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class MyMin {
     public static int min(int x, int y) {
-        return x < y ? x : x;
+        return x < y ? x : y;
     }
 
     public static void main(String[] argv) {
