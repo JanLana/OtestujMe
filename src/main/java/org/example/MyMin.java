@@ -9,6 +9,7 @@ public class MyMin {
 
     public static void main(String[] argv) {
         Scanner sc = new Scanner(System.in);
+        var vysledek = 10;
 
         System.out.println("Nejmensi cislo ze vsech je: " + vysledek);
     }
